@@ -1,11 +1,11 @@
 # Mortgage Calculator
 
-A simplpe mortgage calculator that was built using HTML, CSS and JavaScript. This tool alows users to input loan details to calculate an estimate for a monthly mortgage payment
+A simple mortgage calculator that was built using HTML, CSS and JavaScript. This tool allows users to input loan details to calculate an estimate for a monthly mortgage payment
 
 #Features
 . Inputs
 Loan Amount (£)
-Intrest Rates (%)
+Interest Rates (%)
 Loan Term (Years)
 . Calculates monthly mortgage payment using formula
 . Responsive user - friendly interface
