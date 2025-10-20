@@ -11,7 +11,7 @@ Loan Term (Years)
 . Responsive user - freindly interface
 . Fully functional
 
-Click here for a live demo for the app >>  https://najiibf79.github.io/mortgage-calculator/
+Click here for a live demo for the app >>  
 
 # How to use
 1. Enter the loan amount (e.g. £200000)
