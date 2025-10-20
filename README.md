@@ -8,7 +8,7 @@ Loan Amount (£)
 Intrest Rates (%)
 Loan Term (Years)
 . Calculates monthly mortgage payment using formula
-. Responsive user - freindly interface
+. Responsive user - friendly interface
 . Fully functional
 
 Click here for a live demo for the app >>  https://najiibf79.github.io/mortgage-calculator/
