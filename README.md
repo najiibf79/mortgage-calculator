@@ -15,7 +15,7 @@ Click here for a live demo for the app >>  https://najiibf79.github.io/mortgage-
 
 # How to use
 1. Enter the loan amount (e.g. £200000)
-2. Enter intrest rate (e.g. 4%)
+2. Enter interest rate (e.g. 4%)
 3. Enter the loan term in years (e.g. 15)
 4. Click Calculate
 5. Monthly Payment displayed
